@@ -58,10 +58,6 @@ Welcome to the **Digital Payments App** – a sleek and modern payment platform 
 - Well-structured component hierarchy for maintainability
 - Interactive elements with hover effects and smooth transitions
 
-## 📸 Screenshots
-
-> Add screenshots or demo GIFs here
-
 ## 📦 Installation & Setup
 
 1. **Clone the repository**
